@@ -1,0 +1,19 @@
+#app {
+    display: flex;
+    flex-direction: column;
+}
+
+.round {
+    margin: auto;
+    display: block;
+    height: 100px;
+    width: 100px;
+    background-color: darkgray;
+    border-radius: 50%;
+}
+
+#button {
+    margin: 10px auto;
+    display: block;
+    width: 100px;
+}
